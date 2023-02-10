@@ -32,6 +32,7 @@ app = dash.Dash(__name__,
                 suppress_callback_exceptions=True)
 
            
+app.title = 'Prevendo Clientes Inativos'
 server = app.server
 
 import navbar

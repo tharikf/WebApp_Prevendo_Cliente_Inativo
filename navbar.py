@@ -48,9 +48,9 @@ header = dbc.Navbar(
                             html.Div(
                                 [
                                     dbc.Button('GitHub', color = 'success', className = 'me-1',
-                                    href = 'https://github.com/tharikf/Projetos', target = '_blank'),
+                                    href = 'https://github.com/tharikf?tab=repositories', target = '_blank'),
                                     dbc.Button('Jupyter Notebook', color = 'success', className = 'me-1',
-                                    href = 'https://nbviewer.org/github/tharikf/Projetos/blob/a6829cbb64a093954f6e409e1a8b8a96a1a2fd9a/projeto_prevendo_clientes_inativos.ipynb',
+                                    href = 'https://nbviewer.org/github/tharikf/Prevendo_Clientes_Inativos/blob/main/Notebook_Prevendo_Clientes_Inativos.ipynb',
                                     target = '_blank'),
                                     dbc.Button('Base de Dados', color = 'success', className = 'me-1',
                                     href = 'https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers', target = '_blank'),

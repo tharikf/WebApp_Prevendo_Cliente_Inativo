@@ -6,5 +6,8 @@ Realizamos o deploy com o algoritmo Random Forest devido a boa capacidade de pre
 
 É possível pedir uma previsão de duas formas, gerando valores automaticamente ou preenchendo os campos das categorias. No final será gerada uma previsão sobre a classe do cliente, se ativo ou inativo, e a probabilidade de cada uma das classes. É possível acessar a aplicação a partir do link: https://status-cliente.onrender.com/. A hospedagem no site é gratuita, portanto demora cerca de 2 minutos para abrir a aplicação pela primeira vez.
 
-![webapp](https://user-images.githubusercontent.com/104634357/208159404-5b6b81ae-2c01-4574-8973-2cd8bca87bc8.jpg)
+
+![webapp-prevendo-clientes](https://user-images.githubusercontent.com/104634357/211561495-4c172402-51d4-48ed-9062-5dc134924657.gif)
+
+
 

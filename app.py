@@ -489,6 +489,6 @@ def update_layout(all_inputs):
 
 
 
-# Run the app on localhost:8050
+# Run the app on localhost:8010
 if __name__ == '__main__':
-    app.run_server(debug = False, port=8000, host='0.0.0.0')
+    app.run_server(debug = False, port=8010, host='0.0.0.0')
